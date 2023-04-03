@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for Unmatched scenarios'
+define service ZUI_VEND_UNM_NAVBH {
+  expose ZI_VEND_UNM_NAVBH as vendor;
+}

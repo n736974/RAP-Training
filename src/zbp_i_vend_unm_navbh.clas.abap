@@ -1,0 +1,5 @@
+CLASS zbp_i_vend_unm_navbh DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_vend_unm_navbh.
+ENDCLASS.
+
+CLASS zbp_i_vend_unm_navbh IMPLEMENTATION.
+ENDCLASS.
